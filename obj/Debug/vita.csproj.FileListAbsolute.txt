@@ -1,0 +1,5 @@
+C:\Users\W7\Documents\Visual Studio 2008\Projects\vitaSolution\vitaSolution\vita\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\W7\Documents\Visual Studio 2008\Projects\vitaSolution\vitaSolution\vita\bin\Debug\vita.dll
+C:\Users\W7\Documents\Visual Studio 2008\Projects\vitaSolution\vitaSolution\vita\bin\Debug\vita.pdb
+C:\Users\W7\Documents\Visual Studio 2008\Projects\vitaSolution\vitaSolution\vita\obj\Debug\vita.dll
+C:\Users\W7\Documents\Visual Studio 2008\Projects\vitaSolution\vitaSolution\vita\obj\Debug\vita.pdb
